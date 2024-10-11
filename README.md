@@ -61,13 +61,12 @@ This project demonstrates the implementation of network security measures in a s
 
 
 ## Below are some screenshots from the project
-![Screenshot 2024-10-10 155034](https://github.com/user-attachments/assets/837bc245-2f8c-4aeb-a039-61c41bea0c37)
-![Screenshot 2024-10-10 154143](https://github.com/user-attachments/assets/c87fc03c-3b61-4aff-8d16-060c98842902)
-![Screenshot 2024-10-10 154006](https://github.com/user-attachments/assets/b13cc998-5f16-4fc9-a51e-931ce3a5d76f)
-![Screenshot 2024-10-10 150144](https://github.com/user-attachments/assets/26a6fe7b-b89f-42a1-ade9-416a59aced86)
-![Screenshot 2024-10-10 132206](https://github.com/user-attachments/assets/ab3ebe89-a48c-4809-b295-5311094d3afe)
 ![Screenshot 2024-10-10 130911](https://github.com/user-attachments/assets/b59611ac-f840-4254-b84d-621b4cb20768)
-![Screenshot 2024-10-10 130627](https://github.com/user-attachments/assets/44901264-eca3-4946-9bb3-b023a148b1b5)
 ![Screenshot 2024-10-10 130506](https://github.com/user-attachments/assets/f49b8ede-66b1-403f-908e-a8855f4f805a)
-
+![Screenshot 2024-10-10 130627](https://github.com/user-attachments/assets/44901264-eca3-4946-9bb3-b023a148b1b5)
+![Screenshot 2024-10-10 132206](https://github.com/user-attachments/assets/ab3ebe89-a48c-4809-b295-5311094d3afe)
+![Screenshot 2024-10-10 150144](https://github.com/user-attachments/assets/26a6fe7b-b89f-42a1-ade9-416a59aced86)
+![Screenshot 2024-10-10 154006](https://github.com/user-attachments/assets/b13cc998-5f16-4fc9-a51e-931ce3a5d76f)
+![Screenshot 2024-10-10 154143](https://github.com/user-attachments/assets/c87fc03c-3b61-4aff-8d16-060c98842902)
+![Screenshot 2024-10-10 155034](https://github.com/user-attachments/assets/837bc245-2f8c-4aeb-a039-61c41bea0c37)
 
